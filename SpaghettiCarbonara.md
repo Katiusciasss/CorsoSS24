@@ -1,8 +1,8 @@
-#Spaghetti alla Carbonara
+# Spaghetti alla Carbonara
 
 Questo piatto è il piatto desiderato dagli italiani
 
-##Ingredienti
+## Ingredienti
 
 * Spaghetti 
 * Uova
