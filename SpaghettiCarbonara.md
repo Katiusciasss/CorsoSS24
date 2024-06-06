@@ -8,3 +8,4 @@ Questo piatto è il piatto desiderato dagli italiani
 * Uova
 * Formaggio
 * Guanciale
+* Prezzemolo
